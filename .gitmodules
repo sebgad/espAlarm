@@ -1,3 +1,0 @@
-[submodule "espAlarm/components/espWifi"]
-	path = espAlarm/components/espWifi
-	url = git@github.com:sebgad/espWifi.git
